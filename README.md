@@ -6,5 +6,5 @@ Variáveis: foi usado o 'let', que nos traz a possibilidade de ser alterado post
 Operadores: && (AND lógico), >(maior que), <(menor que), >= (maior ou igual) e <= (menor ou igual)  
 Condicionais: utilizei o 'if...else if'
 
-#Calculadora de Partidas Rankeadas
+# Calculadora de Partidas Rankeadas
 Segundo projeto entregue, utilizei uma função que abarca toda a lógica pedida pelo desafio. 
