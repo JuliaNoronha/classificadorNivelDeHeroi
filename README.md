@@ -5,3 +5,6 @@ Projeto entregue para o bootcamp da DIO, onde pude colocar em prática os concei
 Variáveis: foi usado o 'let', que nos traz a possibilidade de ser alterado posteriormente.  
 Operadores: && (AND lógico), >(maior que), <(menor que), >= (maior ou igual) e <= (menor ou igual)  
 Condicionais: utilizei o 'if...else if'
+
+#Calculadora de Partidas Rankeadas
+Segundo projeto entregue, utilizei uma função que abarca toda a lógica pedida pelo desafio. 
