@@ -8,3 +8,6 @@ Condicionais: utilizei o 'if...else if'
 
 # Calculadora de Partidas Rankeadas
 Segundo projeto entregue, utilizei uma função que abarca toda a lógica pedida pelo desafio. 
+
+# Escrevendo as classes de um jogo
+Terceiro projeto entregue, apliquei o conceito de classe e objeto, função e variáveis de mesmo nome só que de escopos diferentes, o que é bem útil no dia a dia do programador. 
